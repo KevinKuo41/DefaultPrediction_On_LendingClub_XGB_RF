@@ -1,7 +1,7 @@
 # Source
-#### Overall, around 1 million clients' 48 feature variables and 1 target variable (loan_status) comprise the dataset in this work. These clients were all requesting loan on the LendingClub platfrom. <br> 
+#### Overall, around 1 million clients' 48 feature variables and 1 target variable (loan_status) comprise the dataset in this work. These clients were all requesting loans on the LendingClub platform and successfully received the loans. However, some of them could not repay the loans and default. <br> 
 Introducation to LendingClub: https://www.lendingclub.com/ <br> 
-Download Link for the Dataset: https://drive.google.com/drive/folders/10TP7iOiUej9Y8RwLQY-RUU4a-VYY_CHb?usp=share_link <br> 
+Download Link for the Dataset: https://drive.google.com/drive/folders/1COOgIR7x7Y1PH4y3j1h0ys7Ee0h3srfX?usp=sharing <br> 
 
 #### <br> The detailed information on all used variables is outlined in the below table:
 
