@@ -7,6 +7,5 @@
              colsample_bytree=0.9
              subsample=0.6
              reg_alpha=0.2
-             reg_lambda=1
-             
+             reg_lambda=1             
 #### 3. For the performance metrics, we use Confusion Matrix, ROC Curve, and Precision-Recall Curve
