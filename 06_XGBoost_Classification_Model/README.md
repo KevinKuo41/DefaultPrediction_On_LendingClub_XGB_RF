@@ -1,5 +1,5 @@
 # Setup of the XGBoost Classification Model
-#### 1. We apply Oversampling Approach as the rebalancing technique for XGBoost Model <br><br> 2. After 5-fold cross-validation for Hyperparameter tuning, the 8 optimal hyperparameters for XGBoost Model on the dataset: 
+#### 1. We apply Oversampling Approach as the rebalancing technique for XGBoost Model <br><br><br> 2. After 5-fold cross-validation for Hyperparameter tuning, the 8 optimal hyperparameters for XGBoost Model on the dataset: 
              eta=0.15
              max_depth=6
              min_child_weight=4
