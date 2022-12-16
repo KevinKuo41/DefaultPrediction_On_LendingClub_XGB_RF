@@ -17,4 +17,7 @@
 ## (4) Deletion:
 #### - For features updated after borrowers being default (“total_pymnt”, “total_rec_int”, “total_rec_late_fee”, “total_rec_prncp”), we exclude them from models, since they were unknown at the time when issuing the loan. (They are highly correlated to Default.) <br><br> - For features unrelated to the analysis (“zip_code” and “loan_id”), we deleted them all. <br><br> - For feature “emp_title”, there are 20,000+ kinds of job titles in it. Regardless of what kinds of adjustment we applied to it, we still cannot decrease its number of categories into a relatively reasonable range, so we exclude it from the models.
 
+## (5) Categorical Features Encoding:
+#### - Since we only implement tree-based model here, we use the Label Encoding Approach. 
+
 
