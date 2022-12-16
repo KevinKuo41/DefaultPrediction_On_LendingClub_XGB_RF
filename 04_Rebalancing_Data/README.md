@@ -6,13 +6,13 @@
 | Method        | F1-Score | Avg. Precision |
 |---------------|----------|----------------|
 | Oversampling  | 0.4008   | 0.4786         |
-| Undersampling | **0.5228**   | **0.4791**         |
+| **Undersampling** | **0.5228**   | **0.4791**         |
 #### For Random Forest Model, Undersampling approach outperforms.
 
 ## XGBoost Model
 #### Result: 
 | Method        | F1-Score | Avg. Precision |
 |---------------|----------|----------------|
-| Oversampling  | **0.5299**   | **0.5014**         |
+| **Oversampling**  |**0.5299**| **0.5014**     |
 | Undersampling | 0.5290   | 0.4993         |
 #### For XGBoost Model, Oversampling approach outperforms.
