@@ -10,7 +10,8 @@
 ## 2. Calibration for XGBoost Model
 ### (1) Isotonic Regression
 
-![1](https://user-images.githubusercontent.com/92542287/208211824-a1387ac3-09d1-4dbd-a0c5-ac0a4b27024a.png)
+![圖片](https://user-images.githubusercontent.com/92542287/208212184-d1c77050-befd-4663-bcde-62b4be65ebea.png)
+
 
 
 ### (2) Logistic Regression
