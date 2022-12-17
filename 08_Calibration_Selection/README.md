@@ -18,4 +18,4 @@
 
 #### For XGBoost Model, Calibration with Isotonic Regression generates a better pattern of calibrated predicted default rates, since it scatters more evenly and especially has a better distribution around the area close to 0 (lower-left area)
 
-#### On the other hand, although all the patterns of calibrated predicted default rates are in the shape of a backward curve instead of a perfect 45-degree line, in this project, we aim to avoid defaulters and make profits. Hence, a backward curve means we have a relatively conservative default prediction. This fact is a good thing from the aspect of risk management.
+#### On the other hand, although all the patterns of calibrated predicted default rates are in the shape of a backward curve instead of a perfect 45-degree line, in this project, we aim to avoid defaulters and make profits. Hence, a backward curve means we have a relatively conservative default prediction. This fact is not a bad thing thing from the aspect of risk management.
