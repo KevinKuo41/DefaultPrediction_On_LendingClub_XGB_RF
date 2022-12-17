@@ -1,7 +1,7 @@
 # Feature Engineering
 
 ## (1) Imputation:
-#### - Due to 80%+ being NA, we converted “joint” tagged features into a categorical feature “co-borrower”. <br><br> - For “emp_length”, we replaced its NAs with “unknown” as one of the categories.
+#### - Due to 80%+ being NA, we converted “joint” tagged features into a categorical feature “co-borrower”. <br><br> - For feature “emp_length”, we replaced its NAs with “unknown” as one of the categories.
 
 ####   -> 1 new feature is created
 
