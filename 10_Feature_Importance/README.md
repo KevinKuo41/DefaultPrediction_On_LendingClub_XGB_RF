@@ -4,7 +4,7 @@
 |------|------------------------------------|------------|
 | 1    | Interest Rate                      | 12.90%     |
 | 2    | Sub-Grade                          | 11.43%     |
-| 3    | Installment                        | 4.60%      |
+| 3    | Instalment                        | 4.60%      |
 | 4    | Total Credit Limit                 | 3.89%      |
 | 5    | Average Current Balance            | 3.79%      |
 | 6    | Loan Amount                        | 3.69%      |
@@ -43,11 +43,11 @@
 #### Both are associated of borrower's financial stability
 ### (6) Verification Status
 #### Document Verifications includes 1. Business Tax returns. 2. Proof of personal income. 3. Proof of identity and address for you or your business, so the candidate may have higher financial stability if candidate can provide these evidences
-### (7) Installment & Monthly Debt Payments / Total Debt
-#### Installment is the monthly payment owed by the borrower if the loan originates. Both Installment & Monthly Debt Payments / Total Debt would impact the liquidity and saving ability of the borrower.
+### (7) Instalment & Monthly Debt Payments / Total Debt
+#### Instalment is the monthly payment owed by the borrower if the loan originates. Both Instalment & Monthly Debt Payments / Total Debt would impact the liquidity and saving ability of the borrower.
 ### (8) Average Current Balance & Total Current Balance
 #### Both are associated of borrower's liquidity and disposable fund
 ### (9) Loan Amount
-#### The higher the Loan Amount, the higher the interest and installment the borrower need to repay
+#### The higher the Loan Amount, the higher the interest and instalment the borrower need to repay
 ### (10) Total Credit Revolving Balance
 #### Total Credit Revolving Balance is related to the borrower's unpaid repayment amount
