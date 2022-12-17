@@ -8,6 +8,7 @@
 | Fully Paid (0) | 0.82      | 0.63   | 0.72     | 104,291 |
 | Default (1)    | 0.44      | 0.68   | 0.53     | 43,705  |
 | Weighted Avg.  | 0.71      | 0.65   | 0.66     | 147,996 |
+
 ![圖片](https://user-images.githubusercontent.com/92542287/208227479-26886907-da0a-4bc8-9735-d0ba640086bc.png)
 
 ### XGBoost Model
@@ -16,6 +17,7 @@
 | Fully Paid (0) | 0.83      | 0.65   | 0.72     | 104,291 |
 | Default (1)    | 0.44      | 0.67   | 0.54     | 43,705  |
 | Weighted Avg.  | 0.71      | 0.65   | 0.67     | 147,996 |
+
 ![圖片](https://user-images.githubusercontent.com/92542287/208213877-37e39f16-e9a1-498f-b542-7a6a1f6cde30.png)
 
 
