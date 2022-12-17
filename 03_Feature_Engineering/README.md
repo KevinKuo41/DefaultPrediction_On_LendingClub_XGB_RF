@@ -15,7 +15,7 @@
 #### Since we aim to find a general pattern for default prediction, we got rid of the samples with values located outside the Mean ± 3 times Standard Deviation.<br>
 
 ## (4) Deletion:
-#### - For features updated after borrowers being default (“total_pymnt”, “total_rec_int”, “total_rec_late_fee”, “total_rec_prncp”), we exclude them from models, since they were unknown at the time when issuing the loan. (They are highly correlated to Default.) <br><br> - For features unrelated to the analysis (“zip_code” and “loan_id”), we deleted them all. <br><br> - Feature “emp_title” has more than 20,000 categories of job titles in it. No matter what kinds of adjustment we applied to it, we still could not reduce its number of categories to be within a relatively reasonable range, so we exclude it from the models.<br>
+#### - For features updated after borrowers defaulted (“total_pymnt”, “total_rec_int”, “total_rec_late_fee”, “total_rec_prncp”), we excluded them from models since they were unknown at the moment when issuing the loan. (They are all highly correlated to default.) <br><br> - For features unrelated to the analysis (“zip_code” and “loan_id”), we deleted them all. <br><br> - Feature “emp_title” has more than 20,000 categories of job titles. No matter what kind of adjustment we applied to it, we still could not reduce its number of categories to be within a relatively reasonable range, so we excluded it from the models.<br>
 
 ## (5) Categorical Features Encoding:
 #### - For categorical features, we conduct label encoding to convert categories into numbers since we will not implement linear models.<br>
