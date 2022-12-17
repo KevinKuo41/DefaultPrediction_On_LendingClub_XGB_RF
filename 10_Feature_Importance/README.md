@@ -20,8 +20,8 @@
 #### Grade is set based on the individual’s credit score, which takes account of the individual’s payment history and recent credit behaviour.
 ### (2) Interest Rate
 #### Interest Rate on loans is decided based on the individual’s grade, so Grades and Interest Rate are highly related.
-### (3) Term
-#### Borrowers choosing 60 months as their term have a bit higher probability of default. It may be related to the liquidity the borrower possesses.
+### (3) Repayment Term
+#### Borrowers choosing 60 months as their repayment term have a bit higher probability of default, which is related to the liquidity the borrower possesses.
 ### (4) Credit Inquiry in Last 6 Months
 #### If a borrower has credit inquiry records in the last 6 months, it means that he/she has tried to borrow from other financial institutions and thus may have heavier financial burdens.
 ### (5) Home Ownership & Employment Length
