@@ -48,6 +48,6 @@
 ### (8) Average Current Balance & Total Current Balance
 #### Both are associated of borrower's liquidity and disposable fund
 ### (9) Loan Amount
-#### The higher the loan amount, the higher the interest and installment the borrower need to repay
+#### The higher the Loan Amount, the higher the interest and installment the borrower need to repay
 ### (10) Total Credit Revolving Balance
-#### The total credit revolving balance is related to the borrower's unpaid repayment amount
+#### Total Credit Revolving Balance is related to the borrower's unpaid repayment amount
