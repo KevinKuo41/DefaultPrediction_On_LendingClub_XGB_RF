@@ -48,6 +48,6 @@ Instalment is the monthly payment owed by the borrower if the loan originates. B
 ### (8) Average Current Balance & Total Current Balance
 Both are associated of borrower's liquidity and disposable fund
 ### (9) Loan Amount
-The higher the Loan Amount, the higher the interest and instalment the borrower need to repay
+The higher the Loan Amount, the higher the interest and instalment that the borrower needs to repay
 ### (10) Total Credit Revolving Balance
 Total Credit Revolving Balance is related to the borrower's unpaid repayment amount
