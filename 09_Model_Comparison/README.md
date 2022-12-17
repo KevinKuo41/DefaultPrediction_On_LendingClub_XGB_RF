@@ -1,6 +1,6 @@
 # Model Comparison
-## 1. Result of Random Forest Model
-### (1) Confusion Matrix
+## 1. Confusion Matrix
+### Random Forest Model
 
 | Class          | Precision | Recall | F1-Score | Support |
 |----------------|-----------|--------|----------|---------|
@@ -10,15 +10,7 @@
 
 ![圖片](https://user-images.githubusercontent.com/92542287/208227479-26886907-da0a-4bc8-9735-d0ba640086bc.png)
 
-### (2) ROC Curve
-![圖片](https://user-images.githubusercontent.com/92542287/208227496-1b152c08-e34c-4111-bf25-48cbab26ff81.png)
-
-### (3) Precision-Recall Curve
-![圖片](https://user-images.githubusercontent.com/92542287/208227519-aa76a51e-b11c-49a1-8e18-371b2c140912.png)
-
-
-## 2. Result of XGBoost Model
-### (1) Confusion Matrix
+### XGBoost Model
 
 | Class          | Precision | Recall | F1-Score | Support |
 |----------------|-----------|--------|----------|---------|
@@ -28,10 +20,25 @@
 
 ![圖片](https://user-images.githubusercontent.com/92542287/208213877-37e39f16-e9a1-498f-b542-7a6a1f6cde30.png)
 
-### (2) ROC Curve
+
+
+### (3) Precision-Recall Curve
+![圖片](https://user-images.githubusercontent.com/92542287/208227519-aa76a51e-b11c-49a1-8e18-371b2c140912.png)
+
+
+## 2. ROC Curve
+### Random Forest Model
+![圖片](https://user-images.githubusercontent.com/92542287/208227496-1b152c08-e34c-4111-bf25-48cbab26ff81.png)
+
+### XGBoost Model
 ![圖片](https://user-images.githubusercontent.com/92542287/208213912-3f0589b6-42a9-4114-927d-aa7a3f59a209.png)
 
 ### (3) Precision-Recall Curve
 ![圖片](https://user-images.githubusercontent.com/92542287/208213935-1e5deffb-c1f3-441b-811c-7ccce832a073.png)
 
-## 3. Conclusion
+## 3. Precision-Recall Curve
+### Random Forest Model
+![圖片](https://user-images.githubusercontent.com/92542287/208227519-aa76a51e-b11c-49a1-8e18-371b2c140912.png)
+
+### XGBoost Model
+![圖片](https://user-images.githubusercontent.com/92542287/208213935-1e5deffb-c1f3-441b-811c-7ccce832a073.png)
