@@ -1,5 +1,5 @@
 # Setup of Random Forest Classification Model
-#### 1. We apply Undersampling Approach as the rebalancing technique for Random Forest Model <br><br><br> 2. For the Random Forest Model, we select the most important 38 out of 42 feature variables in the dataset to train and test the model (Based on the Average Precision)
+#### 1. We apply Undersampling Approach as the rebalancing technique on the dataset for Random Forest Model <br><br><br> 2. For the Random Forest Model, we select 38 out of 42 feature variables in the dataset to train and test the model (The number of 38 is decided based on the Average Precision below)
 
 | #  |  Rebalancing Method | No. of Features |  F1-Score |  Avg. Precision |
 |----|---------------------|-----------------|-----------|-----------------|
