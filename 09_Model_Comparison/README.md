@@ -35,3 +35,6 @@
 
 ### XGBoost Model
 ![圖片](https://user-images.githubusercontent.com/92542287/208213935-1e5deffb-c1f3-441b-811c-7ccce832a073.png)
+
+## 4. Conclusion
+#### As we can find, the Random Forest model and the XGBoost model have very close performance. However, XGBoost model has a bit higher F1-score on Defaulters and also has a bit higher AUC and Average Precision Based on the above 3 performance metrics. Thus, in the further threshold selection, we use the XGBoost model as the base model to conduct research.
