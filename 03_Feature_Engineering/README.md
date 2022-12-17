@@ -20,4 +20,4 @@
 ## (5) Categorical Features Encoding:
 #### - For categorical features, we conduct label encoding to convert categories into numbers since we will not implement linear models.<br>
 
-## After the entire process, we have **42** distinctive features in total. 
+## -> After the entire process, we have **42** distinctive features in total. 
