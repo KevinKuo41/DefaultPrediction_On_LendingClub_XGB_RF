@@ -23,7 +23,7 @@
 ### (3) Repayment Term
 #### Borrowers choosing 60 months as their repayment term have a bit higher probability of default, which may be related to the liquidity the borrower possesses.
 ### (4) Credit Inquiry in Last 6 Months
-#### If a borrower has credit inquiry records in the last 6 months, it means that he/she has tried to borrow from other financial institutions and thus may have heavier financial burdens.
+#### If a borrower has credit inquiry records in the last 6 months, it means that he/she had tried to borrow from other financial institutions and thus may have heavier financial burdens.
 ### (5) Home Ownership & Employment Length
 #### Both are associated of borrower's financial stability
 ### (6) Verification Status
