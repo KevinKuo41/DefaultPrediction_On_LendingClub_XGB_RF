@@ -17,10 +17,10 @@
 | 11 | oversample          | 42              | 0.398203  | 0.476843        |
 
 
-#### 3. After 5-fold cross-validation for Hyperparameter tuning, the 4 optimal hyperparameters for the Random Forest Model on the dataset: <br> (The details of Hyperparameter Tuning are outlined in 07_Hyperparameter_Tuning)
+#### 3. After 5-fold cross-validation for Hyperparameter tuning, the 4 optimal hyperparameters for the Random Forest Model: <br> (The details of Hyperparameter Tuning are outlined in 07_Hyperparameter_Tuning)
              n_estimators=1000
              max_depth=100
              min_samples_split=14
              min_samples_leaf=9
             
-#### 4. For the performance metrics, we use Confusion Matrix, ROC Curve, and Precision-Recall Curve (Please refer to the 09_Model_Comparison)
+#### 4. For the performance metrics, we use Confusion Matrix, ROC Curve, and Precision-Recall Curve <br>(Please refer to the 09_Model_Comparison)
