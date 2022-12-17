@@ -3,7 +3,7 @@
 
 
 ## 1. Optimal Hyperparameters for Random Forest Model
-the leftmost values in column Values are the optimal parameters, and the values within the brackets are the range we grid search through
+The leftmost values in column Values are the optimal parameters, and the values within the brackets are the range we grid search through
 
 
 ## 2. Optimal Hyperparameters for XGBoost Model
