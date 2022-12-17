@@ -1,5 +1,5 @@
 # Calibration Approach Selection
-#### In order to convert classification outcomes to continuous probabilities, Logistic Regression and Isotonic Regression are implemented and compared. <br><br> By randomly allocating different samples into training, test, and hold-out calibration dataset, the result of calibration would thus change and deviate. To achieve a more robust calibration outcome, we choose to run 5 calibrations with different random allocations, and then take the average on them to produce our predicted default rate.
+#### In order to convert classification outcomes to continuous probabilities, Logistic Regression and Isotonic Regression are implemented and compared. By randomly allocating different samples into training, test, and hold-out calibration dataset, the result of calibration would thus change and deviate. To achieve a more robust calibration outcome, we choose to run 5 calibrations with different random allocations, and then take the average on them to produce our predicted default rate.
 
 ## 1. Calibration for Random Forest Model
 ### (1) Isotonic Regression
