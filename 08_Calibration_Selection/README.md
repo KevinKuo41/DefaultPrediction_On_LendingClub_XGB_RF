@@ -18,6 +18,7 @@
 ### (2) Logistic Regression
 ![圖片](https://user-images.githubusercontent.com/92542287/208212227-2ef52e34-e3b9-498a-843f-668e5e4361c8.png)
 
-#### For XGBoost Model, calibration with Isotonic Regression generates a better pattern of calibrated predicted default rates, since it scatters more evenly and especially has a better distribution around the area close to 0 (lower-left area)
+#### For XGBoost Model, calibration with Isotonic Regression generates a better pattern of calibrated predicted default rates since it scatters more evenly and has a better distribution around the area close to 0 (lower-left area)
 
-#### On the other hand, although all the patterns of calibrated predicted default rates are in the shape of a backward curve instead of a perfect 45-degree line, in this project, we aim to avoid defaulters and make profits. Hence, a backward curve means we have a relatively conservative default prediction. This fact is not a bad thing thing from the aspect of risk management. Thus, we applied the calibration with Isotonic Regression for XGBoost Model.
+
+#### On the other hand, although all the patterns of calibrated predicted default rates are in the shape of a backward curve instead of a perfect 45-degree line, in this project, we aim to avoid defaulters and make profits. Hence, a backward curve means we have a relatively conservative default prediction. This fact is not bad from the aspect of risk management. Thus, we applied the calibration with Isotonic Regression for XGBoost Model.
