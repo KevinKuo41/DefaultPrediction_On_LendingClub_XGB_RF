@@ -15,7 +15,7 @@
 | 9    | No. of Currently Active Bankcard | 1.20%      |
 | 10   | Verification Status              | 1.00%      |
 
-## 3. Underlying Mechanisms Between Features And Default Or Not
+## 3. Underlying Mechanisms Between Features and Default
 ### (1) Grades
 #### Grade is set based on the individual’s credit score, which takes account of the individual’s payment history and recent credit behaviour.
 ### (2) Interest Rate
