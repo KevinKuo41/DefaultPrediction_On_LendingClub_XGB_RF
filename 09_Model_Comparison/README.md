@@ -2,11 +2,19 @@
 ## 1. Result of Random Forest Model
 ### (1) Confusion Matrix
 
+| Class          | Precision | Recall | F1-Score | Support |
+|----------------|-----------|--------|----------|---------|
+| Fully Paid (0) | 0.82      | 0.63   | 0.72     | 104,291 |
+| Default (1)    | 0.44      | 0.68   | 0.53     | 43,705  |
+| Weighted Avg.  | 0.71      | 0.65   | 0.66     | 147,996 |
+
+![圖片](https://user-images.githubusercontent.com/92542287/208227479-26886907-da0a-4bc8-9735-d0ba640086bc.png)
 
 ### (2) ROC Curve
-
+![圖片](https://user-images.githubusercontent.com/92542287/208227496-1b152c08-e34c-4111-bf25-48cbab26ff81.png)
 
 ### (3) Precision-Recall Curve
+![圖片](https://user-images.githubusercontent.com/92542287/208227519-aa76a51e-b11c-49a1-8e18-371b2c140912.png)
 
 
 ## 2. Result of XGBoost Model
