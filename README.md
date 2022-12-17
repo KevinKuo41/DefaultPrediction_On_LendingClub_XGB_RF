@@ -1,4 +1,4 @@
-# Default Prediction On LendingClub Dataset With XGBoost & Random Forest Models <br><br> 使用XGBoost與隨機森林模型對 LendingClub 客戶資料進行違約預測
+# Default Prediction On LendingClub Dataset With XGBoost & Random Forest Classification Models <br><br> 使用XGBoost與隨機森林分類模型對 LendingClub 客戶資料進行違約預測
 
 ![Presentation_Lending_Club_XGB_RF-01](https://user-images.githubusercontent.com/92542287/208264388-369a5183-0b4f-44ad-a0b3-ad2701235cbd.jpg)
 ![Presentation_Lending_Club_XGB_RF-02](https://user-images.githubusercontent.com/92542287/208264390-460e9cd7-3db3-42aa-a8f2-51c01726a0b5.jpg)
