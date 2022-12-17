@@ -3,10 +3,12 @@
 
 ## 1. Calibration for Random Forest Model
 ### (1) Isotonic Regression
+![圖片](https://user-images.githubusercontent.com/92542287/208262780-cd27d815-c6dd-4a02-b3c8-5962c78aa2e7.png)
 
 ### (2) Logistic Regression
+![圖片](https://user-images.githubusercontent.com/92542287/208262857-bba655e4-6b19-4fe7-8f66-bc0ee7864f36.png)
 
-#### For Random Forest Model, Calibration with Isotonic Regression generates a better pattern of calibrated predicted default rates, since it scatters more evenly and especially has a better distribution around the area close to 0 (lower-left area)
+#### For Random Forest Model, Calibration with Logistic Regression leads to a relatively optimistic view for clients with lower default probabilities and a rather conservative view for clients with higher default probabilities, which is also a good thing from the view of Risk Management. Thus, we applied the calibration with Logistic Regression for RF Model.
 
 ## 2. Calibration for XGBoost Model
 
