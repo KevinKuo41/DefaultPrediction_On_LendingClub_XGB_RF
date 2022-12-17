@@ -3,6 +3,12 @@
 
 ## 1. Optimal Hyperparameters for Random Forest Model
 #### The leftmost values in column Values are the optimal parameters, and the values within the brackets are the range we grid search through
+| 4 Hyper Parameters  | Values             |
+|---------------------|--------------------|
+| n_estimators        | 1000 (100 - 1500)  |
+| max_depth           | 60 (60 - 100)      |
+| min_samples_split   | 14 (2 - 14)        |
+| min_sample_leaf     | 9 (1 - 10)         |
 
 
 ## 2. Optimal Hyperparameters for XGBoost Model
