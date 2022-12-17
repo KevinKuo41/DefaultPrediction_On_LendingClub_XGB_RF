@@ -3,6 +3,6 @@
              n_estimators=1000
              max_depth=100
              min_samples_split=14
-             min_samples_leaf=
+             min_samples_leaf=9
             
 #### 4. For the performance metrics, we use Confusion Matrix, ROC Curve, and Precision-Recall Curve (Please refer to the 09_Model_Comparison)
