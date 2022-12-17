@@ -8,7 +8,7 @@
 ### (2) Logistic Regression
 ![圖片](https://user-images.githubusercontent.com/92542287/208262857-bba655e4-6b19-4fe7-8f66-bc0ee7864f36.png)
 
-#### For Random Forest Model, calibration with Logistic Regression leads to a relatively optimistic view for clients with lower default probabilities and a rather conservative view for clients with higher default probabilities, which is also a good thing from the view of Risk Management. Thus, we applied the calibration with Logistic Regression for RF Model.
+#### For Random Forest Model, calibration with Logistic Regression leads to a relatively optimistic view for clients with lower default probabilities and a rather conservative view for clients with higher default probabilities, which is a good thing from the view of Risk Management. Thus, we applied the calibration with Logistic Regression for RF Model.
 
 ## 2. Calibration for XGBoost Model
 
