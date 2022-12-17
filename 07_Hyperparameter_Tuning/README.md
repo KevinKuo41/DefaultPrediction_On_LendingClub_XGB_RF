@@ -6,8 +6,7 @@
 
 
 ## 2. Optimal Hyperparameters for XGBoost Model
-#### The leftmost values in column Values are the optimal parameters, and the values within the brackets are the range we grid search through
-*Since the XGBoost Classifier has some issue when applying with the gridsearch() and RandomUnderSampler() function, we apply our codes to conduct the gridsearch manually rather than using the sklearn gridsearch() function.
+#### The leftmost values in column Values are the optimal parameters, and the values within the brackets are the range we grid search through (Since the XGBoost Classifier has some issue when applying with the gridsearch() and RandomUnderSampler() function, we apply our codes to conduct the gridsearch manually rather than using the sklearn gridsearch() function.)
 
 | 8 Hyper Parameters  | Values             |
 |---------------------|--------------------|
