@@ -32,22 +32,22 @@
 
 ## 4. Underlying Mechanisms Between Features and Default
 ### (1) Grade & Sub-Grade
-#### Grade is set based on the individual’s credit score, which takes account of the individual’s payment history and recent credit behaviour.
+Grade is set based on the individual’s credit score, which takes account of the individual’s payment history and recent credit behaviour.
 ### (2) Interest Rate
-#### Interest Rate on loans is decided based on the individual’s grade, so Grades and Interest Rate are highly related.
+Interest Rate on loans is decided based on the individual’s grade, so Grades and Interest Rate are highly related.
 ### (3) Repayment Term
-#### Borrowers choosing 60 months as their repayment term have a bit higher probability of default, which may be related to the liquidity the borrower possesses.
+Borrowers choosing 60 months as their repayment term have a bit higher probability of default, which may be related to the liquidity the borrower possesses.
 ### (4) Credit Inquiry in Last 6 Months
-#### If a borrower has credit inquiry records in the last 6 months, it means that he/she had tried to borrow from other financial institutions and thus may have heavier financial burdens.
+If a borrower has credit inquiry records in the last 6 months, it means that he/she had tried to borrow from other financial institutions and thus may have heavier financial burdens.
 ### (5) Home Ownership & Employment Length
-#### Both are associated of borrower's financial stability
+Both are associated of borrower's financial stability
 ### (6) Verification Status
-#### Document Verifications includes 1. Business Tax returns. 2. Proof of personal income. 3. Proof of identity and address for you or your business, so the candidate may have higher financial stability if candidate can provide these evidences
+Document Verifications includes 1. Business Tax returns. 2. Proof of personal income. 3. Proof of identity and address for you or your business, so the candidate may have higher financial stability if candidate can provide these evidences
 ### (7) Instalment & Monthly Debt Payments / Total Debt
-#### Instalment is the monthly payment owed by the borrower if the loan originates. Both Instalment & Monthly Debt Payments / Total Debt would impact the liquidity and saving ability of the borrower.
+Instalment is the monthly payment owed by the borrower if the loan originates. Both Instalment & Monthly Debt Payments / Total Debt would impact the liquidity and saving ability of the borrower.
 ### (8) Average Current Balance & Total Current Balance
-#### Both are associated of borrower's liquidity and disposable fund
+Both are associated of borrower's liquidity and disposable fund
 ### (9) Loan Amount
-#### The higher the Loan Amount, the higher the interest and instalment the borrower need to repay
+The higher the Loan Amount, the higher the interest and instalment the borrower need to repay
 ### (10) Total Credit Revolving Balance
-#### Total Credit Revolving Balance is related to the borrower's unpaid repayment amount
+Total Credit Revolving Balance is related to the borrower's unpaid repayment amount
