@@ -20,7 +20,7 @@
 | 2    | Sub-Grade                        | 18.50%     |
 | 3    | Interest Rate                    | 6.40%      |
 | 4    | Repayment Term                   | 4.20%      |
-| 5    | Credit Inquiry in Last 6 Months  | 2.00%      |
+| 5    | Credit Inquiries in Past 6M      | 2.00%      |
 | 6    | Home Ownership                   | 1.80%      |
 | 7    | Employment Length                | 1.60%      |
 | 8    | Loan Amount                      | 1.30%      |
@@ -37,7 +37,7 @@ Grade is set based on the individual’s credit score, which takes account of th
 Interest Rate on loans is decided based on the individual’s grade, so Grades and Interest Rate are highly related.
 ### (3) Repayment Term
 Borrowers choosing 60 months as their repayment term have a bit higher probability of default, which may be related to the liquidity the borrower possesses.
-### (4) Credit Inquiry in Last 6 Months
+### (4) Credit Inquiries in Last 6 Months
 If a borrower has credit inquiry records in the last 6 months, it means that he/she had tried to borrow from other financial institutions and thus may have heavier financial burdens.
 ### (5) Home Ownership & Employment Length
 Both are associated of borrower's financial stability
