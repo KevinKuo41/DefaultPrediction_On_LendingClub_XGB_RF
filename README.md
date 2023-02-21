@@ -1,5 +1,5 @@
 # Default Prediction On LendingClub Dataset With XGBoost & Random Forest Classification Models <br><br> 使用XGBoost與隨機森林分類模型對 LendingClub 客戶資料進行違約預測
-[English Summary](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#english-summary) | [中文摘要](https://github.com/KevinKuo41/Sentiment_Analysis_On_Financial_News_Headlines_With_BERT_And_FinBERT#%E4%B8%AD%E6%96%87%E6%91%98%E8%A6%81)
+[English Summary](https://github.com/KevinKuo41/Default_Prediction_On_LendingClub_XGB_RF#english-summary) | [中文摘要](https://github.com/KevinKuo41/Default_Prediction_On_LendingClub_XGB_RF#%E4%B8%AD%E6%96%87%E6%91%98%E8%A6%81)
 
 #### English Summary
 ![Presentation_Lending_Club_XGB_RF-01](https://user-images.githubusercontent.com/92542287/209255827-7d103ec8-f22f-41ed-af09-f03c333a4674.jpg)
