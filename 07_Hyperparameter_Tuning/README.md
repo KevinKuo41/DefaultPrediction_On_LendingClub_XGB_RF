@@ -8,7 +8,7 @@
 | n_estimators        | 1000               | 100 - 1500         |
 | max_depth           | 60                 | 60 - 100           |
 | min_samples_split   | 14                 | 2 - 14             |
-| min_sample_leaf     | 9                  | 1 - 10             |
+| min_samples_leaf     | 9                  | 1 - 10             |
 
 
 ## 2. Optimal Hyperparameters for XGBoost Model
